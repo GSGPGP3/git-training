@@ -1,7 +1,10 @@
 # git-training
 ## 1.Editor 
 [Atom.io](http://atom.io)
-## 2.Packages
+## 2.git
+[git](https://git-scm.com/)
+
+## Apendix.Packages
 * atom-autocomplete-php
 * php-cs-fixer
 * linter-php
