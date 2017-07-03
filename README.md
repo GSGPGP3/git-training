@@ -1,12 +1,13 @@
 # git-training
-Editor [Atom.io](http://atom.io)
-## Packages
+## 1.Editor 
+[Atom.io](http://atom.io)
+## 2.Packages
 * atom-autocomplete-php
 * php-cs-fixer
 * linter-php
 * atom-beautify
 * emmet
-## Optional
+### Optional
 * color-picker
 * file-icons
 * pigments
